@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Nithin00614/Nithin00614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a final-year engineering student working towards becoming an **AI Engineer**, with a strong focus on **machine learning, clinical AI systems, and applied generative AI**.
 
-Here are some ideas to get you started:
+My work centers on building **end-to-end AI systems** that combine predictive modeling, explainability, robustness analysis, and **LLM-based reasoning using domain-specific knowledge (RAG)**. I am currently developing a **clinical decision-support system for chronic kidney disease (CKD)** using official medical guidelines and real-world evaluation practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m actively strengthening my foundations in:
+
+* Machine Learning & Statistics
+* Data Analysis & Model Validation
+* Generative AI (RAG, LLM integration)
+* System design for AI applications
+
+I aim to build **production-oriented, research-aligned projects** that reflect practical engineering depth rather than isolated experiments.
+
+
+
