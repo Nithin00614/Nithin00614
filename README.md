@@ -2,7 +2,8 @@
 
 I’m a final-year engineering student working towards becoming an **AI Engineer**, with a strong focus on **machine learning, clinical AI systems, and applied generative AI**.
 
-Production Systems Focus
+Production Systems Focus:
+
 • ML / DL / GenAI lifecycle engineering
 • Training–Inference pipeline design
 • Model versioning & retraining systems
