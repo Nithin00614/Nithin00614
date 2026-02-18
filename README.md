@@ -2,6 +2,12 @@
 
 I’m a final-year engineering student working towards becoming an **AI Engineer**, with a strong focus on **machine learning, clinical AI systems, and applied generative AI**.
 
+Production Systems Focus
+• ML / DL / GenAI lifecycle engineering
+• Training–Inference pipeline design
+• Model versioning & retraining systems
+• Containerized deployment (Docker)
+
 My work centers on building **end-to-end AI systems** that combine predictive modeling, explainability, robustness analysis, and **LLM-based reasoning using domain-specific knowledge (RAG)**. I am currently developing a **clinical decision-support system for chronic kidney disease (CKD)** using official medical guidelines and real-world evaluation practices.
 
 I’m actively strengthening my foundations in:
