@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋.
 
 I’m a final-year engineering student working towards becoming an **AI Engineer**, with a strong focus on **machine learning, clinical AI systems, and applied generative AI**.
 
