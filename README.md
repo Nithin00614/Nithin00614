@@ -13,17 +13,17 @@ AI/ML Engineer focused on building **production-ready machine learning and GenAI
 ### 🧠 CKD Clinical AI Decision Support System
 - RAG + SHAP + HITL pipeline
 - 6-layer architecture for real-time reasoning  
-👉 [View Project](your-link)
+  
 
 ### 💳 Transaction Risk Scoring API
 - Async FastAPI system (sub-150ms latency)
 - Load tested to **~160 RPS**
-👉 [View Project](your-link)
+  
 
 ### 🤖 Multi-Agent Market Intelligence System
 - LangGraph-based orchestration
 - Modular AI agents (retrieval + analysis)
-👉 [View Project](your-link)
+
 
 ---
 
@@ -36,5 +36,5 @@ AI/ML Engineer focused on building **production-ready machine learning and GenAI
 ---
 
 ## 📫 Connect
-- linkedin
-- Email
+- 👉 [Linkedin](www.linkedin.com/in/nithin-gowda-161979353)
+- 👉 [Email](nithin00614@gmail.com)
