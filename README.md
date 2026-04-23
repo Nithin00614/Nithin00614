@@ -1,24 +1,40 @@
-## Hi there 👋.
+## Hi, I'm Nithin 👋
 
-I’m a final-year engineering student working towards becoming an **AI Engineer**, with a strong focus on **machine learning, clinical AI systems, and applied generative AI**.
+AI/ML Engineer focused on building **production-ready machine learning and GenAI systems**.
 
-Production Systems Focus:
+🔹 Built high-concurrency ML APIs (FastAPI) handling **160+ RPS with 0% failures**  
+🔹 Developed **clinical AI system (AUC 0.999)** with RAG + explainability (SHAP)  
+🔹 Designed **multi-agent LLM systems** using LangGraph  
 
-• ML / DL / GenAI lifecycle engineering 
-• Training–Inference pipeline design 
-• Model versioning & retraining systems 
-• Containerized deployment (Docker)
+---
 
-My work centers on building **end-to-end AI systems** that combine predictive modeling, explainability, robustness analysis, and **LLM-based reasoning using domain-specific knowledge (RAG)**. I am currently developing a **clinical decision-support system for chronic kidney disease (CKD)** using official medical guidelines and real-world evaluation practices.
+## 🚀 Featured Projects
 
-I’m actively strengthening my foundations in:
+### 🧠 CKD Clinical AI Decision Support System
+- RAG + SHAP + HITL pipeline
+- 6-layer architecture for real-time reasoning  
+👉 [View Project](your-link)
 
-* Machine Learning & Statistics
-* Data Analysis & Model Validation
-* Generative AI (RAG, LLM integration)
-* System design for AI applications
+### 💳 Transaction Risk Scoring API
+- Async FastAPI system (sub-150ms latency)
+- Load tested to **~160 RPS**
+👉 [View Project](your-link)
 
-I aim to build **production-oriented, research-aligned projects** that reflect practical engineering depth rather than isolated experiments.
+### 🤖 Multi-Agent Market Intelligence System
+- LangGraph-based orchestration
+- Modular AI agents (retrieval + analysis)
+👉 [View Project](your-link)
 
+---
 
+## 🛠 Tech Stack
+**ML:** XGBoost, Scikit-learn, SHAP  
+**LLMs:** RAG, LangChain, LangGraph  
+**Backend:** FastAPI, Docker, PostgreSQL  
+**MLOps:** CI/CD, Model Monitoring  
 
+---
+
+## 📫 Connect
+- linkedin
+- Email
