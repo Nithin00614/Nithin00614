@@ -28,11 +28,11 @@ AI/ML Engineer building production-grade systems — calibrated ML pipelines, LL
  
 | Layer | Tools |
 |---|---|
-| ML & DL | XGBoost, Scikit-learn, SHAP, PyTorch, Probability Calibration,pytorch,Transformers |
-| GenAI & LLMs | RAG, LangChain, LangGraph, FAISS, Prompt Engineering, Guardrails |
+| ML & DL | XGBoost, Scikit-learn, SHAP, PyTorch, Transformers |
+| GenAI & LLMs | RAG, LangChain, LangGraph, Prompt Engineering, Guardrails |
 | Backend & Infra | Python (Async), FastAPI, Docker, PostgreSQL, CI/CD (GitHub Actions) |
-| MLOps | Model Monitoring, Drift Detection (PSI), Model Registry, Confidence Calibration |
-| Cloud | AWS · Azure · Render · Google Cloud |
+| MLOps | Model Monitoring, Drift Detection (PSI), Model Registry |
+| Cloud | AWS , Azure , Render , Google Cloud |
  
 ---
 
