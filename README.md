@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nithin Gowda</h1>
+<h1 align="center">Hi, I'm Nithin Gowda 👋</h1>
 
 <h3 align="center">
 AI/ML Engineer · Production AI Systems · RAG · ML Infrastructure
@@ -9,96 +9,56 @@ Building reliable AI systems across machine learning, retrieval, LLM orchestrati
 evaluation, and production infrastructure.
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/nithin-gowda-161979353">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="mailto:nithin00614@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
-  </a>
-</p>
-
 ---
 
-## 🧠 Engineering Focus
+## Engineering Focus
 
 I work on the engineering layer between **ML models and production systems**, with
-a focus on reliability, evaluation, and measurable system behavior.
+a focus on reliability, evaluation, and scalable system design.
 
-- 🔎 **RAG & Retrieval** — hybrid retrieval, reranking, grounding, evaluation, failure analysis
-- ⚙️ **ML Systems** — training, serving, experiment tracking, versioning, monitoring
-- 🛡️ **AI Reliability** — explainability, guardrails, uncertainty, evaluation, failure attribution
-- 🚀 **Backend & Infrastructure** — async APIs, inference services, databases, Docker, CI/CD
-
----
-
-## 🚀 Featured Engineering Work
-
-### 🩺 Clinical AI Decision Support System
-
-> Production-oriented clinical AI architecture combining predictive ML,
-> explainability, retrieval-grounded reasoning, and human oversight.
-
-- Built an end-to-end **ML → SHAP → Retrieval → LLM reasoning** pipeline
-- Integrated SHAP evidence into grounded reasoning and explanation generation
-- Designed **guardrails, HITL review, audit logging, and failure-handling modes**
-- Evaluated model robustness across external data and distribution shifts
-
-**Stack:** `Python` `FastAPI` `Scikit-learn` `SHAP` `RAG` `MLflow` `Docker`
+- **RAG & Retrieval** — hybrid retrieval, grounding, evaluation, and failure analysis
+- **LLM & Agent Systems** — LangGraph orchestration, tool use, and multi-agent workflows
+- **ML Systems** — model serving, evaluation, monitoring, and production inference
+- **Backend & Infrastructure** — FastAPI, async systems, PostgreSQL, Docker, and CI/CD
 
 ---
 
-### 🔬 RAG Evaluation & Observability
+## ⚡ Engineering Highlights
 
-> Evaluation infrastructure for identifying where RAG systems fail — retrieval,
-> generation, or the interaction between them.
+| Area | Highlight |
+|---|---|
+| AI Systems | Production RAG · Multi-Agent Workflows · LLM Orchestration |
+| ML Infrastructure | ~160 RPS · sub-150ms inference · Async APIs |
+| AI Reliability | Retrieval evaluation · Failure attribution · Explainability |
+| Open Source | Maintainer @ OpenAgentHQ · AI infrastructure contributions |
+| Research | IEEE-published work in ML-based clinical decision support |
 
-- Component-level **retrieval and generation evaluation**
-- Aggregated evaluation signals for pipeline-level diagnostics
-- Failure attribution for identifying likely sources of degraded responses
-- Structured evaluation outputs for observability and debugging
-
-**Stack:** `Python` `RAG` `LLM Evaluation` `Retrieval Evaluation` `Observability`
-
----
-
-### 📊 Market Intelligence Platform
-
-> Multi-agent AI system for retrieving, analyzing, and synthesizing
-> evidence across structured research workflows.
-
-- Multi-stage agent orchestration using **LangGraph**
-- Retrieval-grounded evidence processing
-- Structured pipeline execution and failure isolation
-- Backend architecture for multi-agent AI workflows
-
-**Stack:** `Python` `FastAPI` `LangGraph` `RAG` `PostgreSQL`
+> **Explore my pinned repositories below for architecture, implementation, benchmarks, and technical documentation.**
 
 ---
 
-### 💳 Transaction Risk ML System
+## Currently
 
-> Production-style ML inference system for real-time transaction risk scoring.
+**Founding Engineer Intern @ Growthsauras**
 
-- End-to-end model training and inference pipeline
-- Async **FastAPI inference service**
-- MLflow experiment tracking and model versioning
-- Dockerized deployment with production-oriented monitoring
-- Load-tested at **~160 RPS with sub-150ms latency**
+Working with end-to-end ownership across production AI systems — from architecture
+and implementation to evaluation, reliability, and deployment.
 
-**Stack:** `Python` `FastAPI` `Scikit-learn` `MLflow` `Docker`
+**Maintainer & Active Contributor @ OpenAgentHQ**
+
+Contributing to open-source agent infrastructure, developer tooling, and
+production-oriented AI systems.
 
 ---
 
 ## 🌐 Open Source
 
-I contribute to AI/ML infrastructure with a focus on **retrieval reliability,
-evaluation, and developer observability**.
+I actively contribute to open-source AI infrastructure with a focus on
+**agent systems, retrieval reliability, evaluation, and developer tooling**.
 
-🔹 Retrieval diagnostics & confidence signals  
-🔹 RAG evaluation infrastructure  
-🔹 Failure analysis for AI pipelines  
-🔹 Production-oriented AI tooling
+- **OpenAgentHQ** — Maintainer & active contributor
+- **Haystack** — Retrieval confidence and reliability tooling
+- Contributions across AI evaluation, retrieval diagnostics, and agent infrastructure
 
 ---
 
@@ -114,7 +74,7 @@ evaluation, and developer observability**.
 
 ### LLM & AI Systems
 
-`RAG` · `LangChain` · `LangGraph` · `LLM Evaluation` · `Guardrails`
+`RAG` · `LangGraph` · `LangChain` · `Multi-Agent Systems` · `LLM Evaluation` · `Guardrails`
 
 ### Backend & Infrastructure
 
@@ -122,7 +82,7 @@ evaluation, and developer observability**.
   <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,git,github" />
 </p>
 
-`Async Python` · `REST APIs` · `MLflow` · `CI/CD` · `Model Monitoring`
+`Async Python` · `REST APIs` · `MLflow` · `CI/CD` · `Monitoring`
 
 ### Cloud
 
@@ -132,26 +92,15 @@ evaluation, and developer observability**.
 
 ---
 
-## 📈 Engineering Highlights
-
-| System | Engineering Result |
-|---|---|
-| ⚡ Transaction Risk API | ~160 RPS · sub-150ms latency · load tested |
-| 🩺 Clinical AI Pipeline | ML + SHAP + retrieval-grounded reasoning |
-| 🔍 RAG Evaluation | Component-level retrieval & generation diagnostics |
-| 🛡️ Robustness Analysis | Distribution-shift degradation quantified and analyzed |
-
----
-
 ## 🎯 Current Interests
 
 <p align="center">
+  <code>Agentic AI</code> ·
   <code>RAG Evaluation</code> ·
   <code>AI Reliability</code> ·
   <code>ML Systems</code> ·
   <code>AI Observability</code> ·
-  <code>Retrieval Systems</code> ·
-  <code>Agentic AI</code>
+  <code>Retrieval Systems</code>
 </p>
 
 ---
