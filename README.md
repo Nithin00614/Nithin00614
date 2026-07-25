@@ -78,9 +78,10 @@ I actively contribute to open-source AI infrastructure with a focus on
   <img src="https://cdn.simpleicons.org/python" height="38" alt="Python" title="Python"/>
 </p>
 
-`RAG` · `Agentic Workflows` · `Tool Calling` · `Vector Search` · `Retrieval & Reranking` · `LLM Evaluation` · `Guardrails`
+**Vector Search:** `Milvus` · `FAISS`  
+`RAG` · `Agentic Workflows` · `Tool Calling` · `Retrieval & Reranking` · `LLM Evaluation` · `Guardrails`
 
----
+
 
 ### Backend & API Engineering
 
@@ -98,7 +99,8 @@ I actively contribute to open-source AI infrastructure with a focus on
 
 `Async Python` · `REST APIs` · `Authentication & Authorization` · `Middleware` · `Caching` · `Validation` · `Error Handling`
 
----
+**Application Layer:** `React` · `TypeScript` · `Tailwind CSS` · `Zustand`
+
 
 ### ML Engineering & Evaluation
 
@@ -112,22 +114,23 @@ I actively contribute to open-source AI infrastructure with a focus on
   <img src="https://cdn.simpleicons.org/mlflow" height="38" alt="MLflow" title="MLflow"/>
 </p>
 
-`XGBoost` · `SHAP` · `Model Serving` · `Experiment Tracking` · `Explainability` · `Drift Detection` · `Robustness Testing`
+`XGBoost` · `SHAP` · `Model Serving` · `Experiment Tracking` · `Model Evaluation` · `Explainability` · `Drift Detection` · `Robustness Testing`
 
----
 
 ### Production & Infrastructure
 
 <p>
-  <img src="https://cdn.simpleicons.org/docker" height="38" alt="Docker" title="Docker"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/amazonwebservices" height="38" alt="AWS" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="38" alt="AWS" title="AWS"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlecloud" height="38" alt="Google Cloud" title="Google Cloud"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/githubactions" height="38" alt="GitHub Actions" title="GitHub Actions"/>
+  <img src="https://cdn.simpleicons.org/vercel" height="38" alt="Vercel" title="Vercel"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git" height="38" alt="Git" title="Git"/>
+  <img src="https://cdn.simpleicons.org/render" height="38" alt="Render" title="Render"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker" height="38" alt="Docker" title="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions" height="38" alt="GitHub Actions" title="GitHub Actions"/>
 </p>
 
 `CI/CD` · `Containerization` · `Observability` · `Logging` · `Monitoring` · `Load Testing` · `Production Deployment`
