@@ -62,46 +62,75 @@ I actively contribute to open-source AI infrastructure with a focus on
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
-### AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow" />
-</p>
-
-`XGBoost` · `SHAP` · `Transformers` · `Machine Learning` · `Deep Learning`
-
-### LLM & AI Systems
-
-`RAG` · `LangGraph` · `LangChain` · `Multi-Agent Systems` · `LLM Evaluation` · `Guardrails`
-
-### Backend & Infrastructure
+### AI Engineering & LLM Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,git,github" />
+  <img src="https://cdn.simpleicons.org/langchain" height="38" alt="LangChain" title="LangChain"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langgraph" height="38" alt="LangGraph" title="LangGraph"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface" height="38" alt="Hugging Face" title="Hugging Face"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/milvus" height="38" alt="Milvus" title="Milvus"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python" height="38" alt="Python" title="Python"/>
 </p>
 
-`Async Python` · `REST APIs` · `MLflow` · `CI/CD` · `Monitoring`
-
-### Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-</p>
+`RAG` · `Agentic Workflows` · `Tool Calling` · `Vector Search` · `Retrieval & Reranking` · `LLM Evaluation` · `Guardrails`
 
 ---
 
-## 🎯 Current Interests
+### Backend & API Engineering
 
-<p align="center">
-  <code>Agentic AI</code> ·
-  <code>RAG Evaluation</code> ·
-  <code>AI Reliability</code> ·
-  <code>ML Systems</code> ·
-  <code>AI Observability</code> ·
-  <code>Retrieval Systems</code>
+<p>
+  <img src="https://cdn.simpleicons.org/fastapi" height="38" alt="FastAPI" title="FastAPI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql" height="38" alt="PostgreSQL" title="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redis" height="38" alt="Redis" title="Redis"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jsonwebtokens" height="38" alt="JWT" title="JWT"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pydantic" height="38" alt="Pydantic" title="Pydantic"/>
 </p>
+
+`Async Python` · `REST APIs` · `Authentication & Authorization` · `Middleware` · `Caching` · `Validation` · `Error Handling`
+
+---
+
+### ML Engineering & Evaluation
+
+<p>
+  <img src="https://cdn.simpleicons.org/pytorch" height="38" alt="PyTorch" title="PyTorch"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn" height="38" alt="Scikit-learn" title="Scikit-learn"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow" height="38" alt="TensorFlow" title="TensorFlow"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mlflow" height="38" alt="MLflow" title="MLflow"/>
+</p>
+
+`XGBoost` · `SHAP` · `Model Serving` · `Experiment Tracking` · `Explainability` · `Drift Detection` · `Robustness Testing`
+
+---
+
+### Production & Infrastructure
+
+<p>
+  <img src="https://cdn.simpleicons.org/docker" height="38" alt="Docker" title="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/amazonwebservices" height="38" alt="AWS" title="AWS"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud" height="38" alt="Google Cloud" title="Google Cloud"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions" height="38" alt="GitHub Actions" title="GitHub Actions"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git" height="38" alt="Git" title="Git"/>
+</p>
+
+`CI/CD` · `Containerization` · `Observability` · `Logging` · `Monitoring` · `Load Testing` · `Production Deployment`
 
 ---
 
