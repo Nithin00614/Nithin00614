@@ -78,8 +78,6 @@ I actively contribute to open-source AI infrastructure with a focus on
   <img src="https://cdn.simpleicons.org/python" height="38" alt="Python" title="Python"/>
 </p>
 
-**Vector Search:** `Milvus` · `FAISS`
-
 `RAG` · `Agentic Workflows` · `Tool Calling` · `Retrieval & Reranking` · `LLM Evaluation` · `Guardrails`
 
 
@@ -124,11 +122,11 @@ I actively contribute to open-source AI infrastructure with a focus on
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/vercel/white" height="38" alt="Vercel" title="Vercel"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/render/white" height="38" alt="Render" title="Render"/>
-  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker" height="38" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/githubactions" height="38" alt="GitHub Actions" title="GitHub Actions"/>
+  <img src="https://cdn.simpleicons.org/render/white" height="38" alt="Render" title="Render"/>
+  &nbsp;&nbsp;
 </p>
 
 `CI/CD` · `Containerization` · `Observability` · `Logging` · `Monitoring` · `Load Testing` · `Production Deployment`
