@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nithin Gowda 👋</h1>
 
 <h3 align="center">
-AI/ML Engineer · Production AI Systems · RAG · ML Infrastructure
+AI/ML Engineer · Production AI Systems · RAG · AI Agents · ML Infrastructure
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@ evaluation, and production infrastructure.
 
 ## Engineering Focus
 
-I work on the engineering layer between **ML models and production systems**, with
+I work on the engineering layer between **AI models and production systems**, with
 a focus on reliability, evaluation, and scalable system design.
 
 - **RAG & Retrieval** — hybrid retrieval, grounding, evaluation, and failure analysis
@@ -39,7 +39,7 @@ a focus on reliability, evaluation, and scalable system design.
 
 ## Currently
 
-**Founding Engineer Intern @ Growthsauras**
+**Founding AI Engineer @ Growthsauras**
 
 Working with end-to-end ownership across production AI systems — from architecture
 and implementation to evaluation, reliability, and deployment.
@@ -92,10 +92,12 @@ I actively contribute to open-source AI infrastructure with a focus on
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/redis" height="38" alt="Redis" title="Redis"/>
   &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/white" height="38" alt="JWT" title="JWT"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pydantic" height="38" alt="Pydantic" title="Pydantic"/>
 </p>
 
-`Async Python` · `REST APIs` · `JWT Auth` · `Authorization` · `Middleware` · `Caching` · `Validation` · `Error Handling`
+`Async Python` · `REST APIs` · `Authentication & Authorization` · `Middleware` · `Caching` · `Validation` · `Error Handling`
 
 
 ### ML Engineering & Evaluation
@@ -120,18 +122,17 @@ I actively contribute to open-source AI infrastructure with a focus on
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlecloud" height="38" alt="Google Cloud" title="Google Cloud"/>
   &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/white" height="38" alt="Vercel" title="Vercel"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/render/white" height="38" alt="Render" title="Render"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker" height="38" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/githubactions" height="38" alt="GitHub Actions" title="GitHub Actions"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Vercel-Deployment-333333?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Render-Deployment-333333?style=flat&logo=render&logoColor=white" alt="Render"/>
-</p>
-
 `CI/CD` · `Containerization` · `Observability` · `Logging` · `Monitoring` · `Load Testing` · `Production Deployment`
+
 ---
 
 ## 🤝 Connect
