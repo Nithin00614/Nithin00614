@@ -11,7 +11,7 @@ evaluation, and production infrastructure.
 
 ---
 
-## Engineering Focus
+## 🔎 Engineering Focus
 
 I work on the engineering layer between **AI models and production systems**, with
 a focus on reliability, evaluation, and scalable system design.
@@ -37,7 +37,7 @@ a focus on reliability, evaluation, and scalable system design.
 
 ---
 
-## Currently
+## 🚀 Currently
 
 **Founding AI Engineer @ Growthsauras**
 
