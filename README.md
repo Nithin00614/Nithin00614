@@ -31,9 +31,9 @@ a focus on reliability, evaluation, and scalable system design.
 | ML Infrastructure | ~160 RPS · sub-150ms inference · Async APIs |
 | AI Reliability | Retrieval evaluation · Failure attribution · Explainability |
 | Open Source | Maintainer @ OpenAgentHQ · AI infrastructure contributions |
-| Research | IEEE-published work in ML-based clinical decision support |
+| Research | [IEEE-published Clinical AI research](https://ieeexplore.ieee.org/document/11564323) |
 
-> **Explore my pinned repositories below for architecture, implementation, benchmarks, and technical documentation.**
+- **Explore my pinned repositories below for architecture, implementation, benchmarks, and technical documentation.**
 
 ---
 
