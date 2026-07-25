@@ -124,9 +124,9 @@ I actively contribute to open-source AI infrastructure with a focus on
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker" height="38" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/githubactions" height="38" alt="GitHub Actions" title="GitHub Actions"/>
   <img src="https://cdn.simpleicons.org/render/white" height="38" alt="Render" title="Render"/>
   &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions" height="38" alt="GitHub Actions" title="GitHub Actions"/>
 </p>
 
 `CI/CD` · `Containerization` · `Observability` · `Logging` · `Monitoring` · `Load Testing` · `Production Deployment`
