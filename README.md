@@ -6,15 +6,15 @@ AI/ML Engineer · Production AI Systems · RAG · AI Agents · ML Infrastructure
 
 <p align="center">
 Building reliable AI systems across machine learning, retrieval, LLM orchestration,
-evaluation, and production infrastructure.
+evaluation and production infrastructure.
 </p>
 
 ---
 
 ## 🔎 Engineering Focus
 
-I work on the engineering layer between **AI models and production systems**, with
-a focus on reliability, evaluation, and scalable system design.
+I work on the engineering layer between **AI models and Production systems**, with
+a focus on reliability, evaluation and scalable system design.
 
 - **RAG & Retrieval** — hybrid retrieval, grounding, evaluation, and failure analysis
 - **LLM & Agent Systems** — LangGraph orchestration, tool use, and multi-agent workflows
@@ -46,7 +46,7 @@ and implementation to evaluation, reliability, and deployment.
 
 **Maintainer & Active Contributor @ OpenAgentHQ**
 
-Contributing to open-source agent infrastructure, developer tooling, and
+Contributing to open-source agent infrastructure, developer tooling and
 production-oriented AI systems.
 
 ---
