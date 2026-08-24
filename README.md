@@ -39,7 +39,7 @@ a focus on reliability, evaluation and scalable system design.
 
 ## 🚀 Currently
 
-**Founding AI Engineer @ Growthsauras**
+**Founding AI Engineer @ EvidenceFirst**
 
 Working with end-to-end ownership across production AI systems — from architecture
 and implementation to evaluation, reliability, and deployment.
